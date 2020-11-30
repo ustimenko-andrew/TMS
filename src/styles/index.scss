@@ -1,0 +1,12 @@
+$size: 100px;
+$radius: 50%;
+
+div {
+  width: $size;
+  height: $size;
+
+  border: 1px solid black;
+  border-radius: $radius;
+
+  background-color: red;
+}
